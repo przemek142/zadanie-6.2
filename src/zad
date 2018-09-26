@@ -1,0 +1,7 @@
+zadanie-java-48
+Link do zadania
+Link do rozwiązania
+Zdefiniuj metodę, która przyjmuje jako argument dowolną liczbę całkowitą i w
+wyniku zwraca sumę cyfr tej liczby.
+Przetestuj działanie metody w osobnej klasie.
+Przykładowo dla liczby 1234 wynikiem jest 10, bo 1+2+3+4=10.
